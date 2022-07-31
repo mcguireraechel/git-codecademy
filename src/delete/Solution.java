@@ -23,6 +23,7 @@ public class Solution {
 		  
 		  Integer number = num;
 		  int x = 648;
+		  int y;
 		  System.out.println(Integer.reverse(number.intValue()));
 		
 	
