@@ -6,5 +6,12 @@ public class poop {
   void print() {
 	  
   }
+  void delete() {
+	  
+  }
+  
+  void secondBranch() {
+	  
+  }
 
 }
