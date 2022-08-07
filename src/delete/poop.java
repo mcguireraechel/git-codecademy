@@ -7,7 +7,7 @@ public class poop {
 	  
   }
   void delete() {
-	  
+	  System.out.println("Second branch delete "); 
   }
   
   void secondBranch() {
