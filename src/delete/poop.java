@@ -13,5 +13,9 @@ public class poop {
   void secondBranch() {
 	 System.out.println("Second branch "); 
   }
+  void missing(){
+	  int y;
+  }
+
 
 }
